@@ -1,0 +1,6 @@
+# originais pesados / arquivos de sistema
+assets/originais/
+.DS_Store
+Thumbs.db
+node_modules/
+.vercel
